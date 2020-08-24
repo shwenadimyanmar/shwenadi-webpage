@@ -9,7 +9,7 @@ const petsData = [
     name: "တာရာမင်းစတိုး",
     address:" ဉာန်ကွဲရပ်ကွက်၊ ပြင်ဦးလွင်မြို့။",
     phones: ["09693157137"],
-    photo: "img/4.jpg"
+    photo: "img/2.jpg"
   },
   {
     name: "ခိုင်ဇာအလှကုန်စတိုး",
